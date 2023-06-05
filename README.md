@@ -1,2 +1,2 @@
 # merchandise
-https://eeriley99.github.io/planejanebuilds/merchandise
+https://planejanebuilds.github.io/merchandise
